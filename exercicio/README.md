@@ -22,7 +22,7 @@ Podes removê-los se não quiseres esse aspeto ou se preferires menos pedidos ex
 
 <h1 align="center">Olá, sou o Afonso Ramos 👋</h1>
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+<h3 align="left">👩‍💻 Sobre mim:</h3>
 
 <p align="left">
   Estou na licenciatura de Bioinformática (primeiro ano) na FCUP
